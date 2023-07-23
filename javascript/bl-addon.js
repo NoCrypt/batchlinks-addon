@@ -6,14 +6,78 @@ onUiLoaded(() => {
       "#vae",
       "https://huggingface.co/NoCrypt/resources/resolve/main/VAE/any.vae.safetensors",
     ],
-    "Blessed VAE": [ 
+    "Blessed VAE": [
       "#vae",
       "https://huggingface.co/NoCrypt/resources/resolve/main/VAE/blessed2.vae.safetensors",
     ],
     "WD VAE": [
       "#vae",
       "https://huggingface.co/NoCrypt/resources/resolve/main/VAE/wd.vae.safetensors",
-    ]
+    ],
+    "[CN] ip2p": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p_fp16.yaml",
+    ],
+    "[CN] shuffle": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle_fp16.yaml",
+    ],
+    "[CN] tile": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11f1e_sdtile_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11f1e_sdtile_fp16.yaml",
+    ],
+    "[CN] depth": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth_fp16.yaml",
+    ],
+    "[CN] canny": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny_fp16.yaml",
+    ],
+    "[CN] depth": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_depth_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_depth_fp16.yaml",
+    ],
+    "[CN] inpaint": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint_fp16.yaml",
+    ],
+    "[CN] lineart": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart_fp16.yaml",
+    ],
+    "[CN] mlsd": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_mlsd_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_mlsd_fp16.yaml",
+    ],
+    "[CN] normalbae": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae_fp16.yaml",
+    ],
+    "[CN] openpose": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose_fp16.yaml",
+    ],
+    "[CN] scribble": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble_fp16.yaml",
+    ],
+    "[CN] seg": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg_fp16.yaml",
+    ],
+    "[CN] softedge": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge_fp16.yaml",
+    ],
+    "[CN] lineart_anime": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime_fp16.yaml",
+    ],
+    "[CN] tile": [
+      "#cnet",
+      "https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11u_sd15_tile_fp16.safetensors\nhttps://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11u_sd15_tile_fp16.yaml",
+    ],
   };
   
   const textareaEl = document.querySelector('#tab_batchlinks > * textarea[rows="5"]');
